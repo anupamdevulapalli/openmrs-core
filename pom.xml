@@ -734,7 +734,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -753,7 +753,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -774,7 +774,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -1110,7 +1110,7 @@
 		<hibernateSearchVersion>5.11.8.Final</hibernateSearchVersion>
 		<luceneVersion>5.5.5</luceneVersion>
 		<aspectjVersion>1.9.6</aspectjVersion>
-		<jacksonVersion>2.12.1</jacksonVersion>
+		<jacksonVersion>2.15.0</jacksonVersion>
 		<junitVersion>5.7.1</junitVersion>
 		<mockitoVersion>3.7.7</mockitoVersion>
 		<hamcrestVersion>2.2</hamcrestVersion>
@@ -1118,7 +1118,7 @@
 		<slf4jVersion> 1.7.30</slf4jVersion>
 		<log4jVersion>2.14.0</log4jVersion>
 
-		<customArgLineForTesting />
+		<customArgLineForTesting/>
 
 		<sonar.host.url>https://sonar.openmrs.org</sonar.host.url>
 		<sonar.issuesReport.html.enable>true</sonar.issuesReport.html.enable>
