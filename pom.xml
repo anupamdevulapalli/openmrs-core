@@ -734,7 +734,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -753,7 +753,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -774,7 +774,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -1116,9 +1116,9 @@
 		<hamcrestVersion>2.2</hamcrestVersion>
 
 		<slf4jVersion> 1.7.30</slf4jVersion>
-		<log4jVersion>2.14.0</log4jVersion>
+		<log4jVersion>2.25.3</log4jVersion>
 
-		<customArgLineForTesting />
+		<customArgLineForTesting/>
 
 		<sonar.host.url>https://sonar.openmrs.org</sonar.host.url>
 		<sonar.issuesReport.html.enable>true</sonar.issuesReport.html.enable>
